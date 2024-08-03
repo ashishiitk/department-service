@@ -102,6 +102,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>department-service</finalName>
 	</build>
 
 </project>
